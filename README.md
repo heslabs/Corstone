@@ -45,7 +45,8 @@ Reference: https://developer.arm.com/Processors/Corstone-1000
 
 * Corstone-1000 offers a pre-verified, configurable subsystem and system IP to enable faster and lower risk development of secure **Linux-capable SoCs** for a diverse range of applications, from low-power MPUs and wearables to advanced high-performance IoT endpoints and gateways.
 * An example implementation of Corstone-1000 with a cryptocell extension has achieved PSA Certified Level 2 Ready for accelerated IoT security assurance.
-* A reference software stack is included to accelerate software development. Corstone-1000 achieves Arm SystemReady IR requirements to enable interoperability with off-the-shelf operating systems and hypervisors.
+* A reference **software stack** is included to accelerate software development.
+* Corstone-1000 achieves **Arm SystemReady IR** requirements to enable interoperability with off-the-shelf operating systems and hypervisors.
 
 ---
 ### Resource
@@ -60,9 +61,9 @@ Reference: https://developer.arm.com/Processors/Corstone-1000
 
 Reference: https://developer.arm.com/Processors/Corstone-300
 
-* A reference package to help SoC designers build Cortex-M55 based systems faster.
+* A reference package to help SoC designers build **Cortex-M55** based systems faster.
 * Corstone-300 combines an example subsystem, complementary System IP, and software and tools to streamline SoC development.
-* Corstone-300 leverages Cortex-M55, Arm's most AI capable Cortex-M CPU, and allows for straightforward integration of the Ethos-U55 NPU to build low-power, high-performance endpoint AI systems.
+* Corstone-300 leverages **Cortex-M55**, Arm's most AI capable Cortex-M CPU, and allows for straightforward integration of the **Ethos-U55 NPU** to build low-power, high-performance endpoint AI systems.
 
 ---
 ### Resource 
