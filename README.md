@@ -45,7 +45,7 @@ Reference: https://developer.arm.com/Processors/Corstone-1000
 Source: [[Arm IoT Reference Design Platform]](https://www.arm.com/products/silicon-ip-subsystems)
 
 ---
-### Corstone-1000 Resource
+### Resource
 
 * Arm Corstone-1000 Technical Overview [[ArmDeveloper]](https://developer.arm.com/documentation/102360/0000/Overview-of-Corstone-1000/Corstone-1000)
 * Arm® Cortex®-A55 Core Technical Reference Manual [[ArmDeveloper]](https://developer.arm.com/documentation/100442/0200/?lang=en)
@@ -62,7 +62,7 @@ Reference: https://developer.arm.com/Processors/Corstone-300
 * Corstone-300 leverages Cortex-M55, Arm's most AI capable Cortex-M CPU, and allows for straightforward integration of the Ethos-U55 NPU to build low-power, high-performance endpoint AI systems.
 
 ---
-### Corstone-300 Resource 
+### Resource 
 
 * Arm® Corstone™-300 Reference Package Technical Overview [[ArmDeveloper]](https://developer.arm.com/documentation/101772/0000/?lang=en)
 * Arm Corstone SSE-300 Example Subsystem [[ArmDeveloper]](https://developer.arm.com/documentation/101773/0001/?lang=en)
