@@ -66,3 +66,6 @@ Reference: https://developer.arm.com/Processors/Corstone-300
 
 * Arm® Corstone™-300 Reference Package Technical Overview [[ArmDeveloper]](https://developer.arm.com/documentation/101772/0000/?lang=en)
 * Arm Corstone SSE-300 Example Subsystem [[ArmDeveloper]](https://developer.arm.com/documentation/101773/0001/?lang=en)
+* Arm® Cortex®-M55 Processor Technical Reference Manual [[ArmDeveloper]](https://developer.arm.com/documentation/101051/0101/?lang=en)
+* Arm® Ethos™-U55 NPU Technical Reference Manual [[ArmDeveloper]](https://developer.arm.com/documentation/102420/0200/?lang=en)
+
