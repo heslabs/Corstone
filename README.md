@@ -4,8 +4,10 @@ Reference Design Platforms Accelerating the Deployment of Intelligent IoT at Sca
 https://www.arm.com/products/silicon-ip-subsystems
 
 <img src="https://github.com/user-attachments/assets/3659cf42-498b-4485-93ec-cce0dc48ddbc" width=900>
+<br/><br/>
 
-Source: [Arm IoT Reference Design Platform](https://www.arm.com/products/silicon-ip-subsystems)
+* SoC designers use Arm Corstone as a framework to build an SoC using the modifiable, configurable, heterogenous subsystem.
+* Software developers use Corstone software components and tools to get started with the software development before the hardware is ready.
 
 ---
 * **Corstone-1000**: For embedded and IoT devices that require high performance and rich OS.
@@ -41,10 +43,6 @@ Reference: https://developer.arm.com/Processors/Corstone-1000
 
 * The Arm Corstone family is designed to help reduce design complexity and speed time –to market. 
 * Corstone balances trade-offs between performance and energy efficiency by providing a large amount of software, IP blocks, and a configurable, modifiable, heterogeneous subsystem.
-* SoC designers use Arm Corstone as a framework to build an SoC using the modifiable, configurable, heterogenous subsystem.
-* Software developers use Corstone software components and tools to get started with the software development before the hardware is ready.
-
-
 
 ---
 ### Resource
