@@ -5,7 +5,7 @@ https://www.arm.com/products/silicon-ip-subsystems
 
 <img src="https://github.com/user-attachments/assets/3659cf42-498b-4485-93ec-cce0dc48ddbc" width=900>
 
-Source: [[Arm IoT Reference Design Platform]](https://www.arm.com/products/silicon-ip-subsystems)
+Source: [Arm IoT Reference Design Platform](https://www.arm.com/products/silicon-ip-subsystems)
 
 ---
 * **Corstone-1000**: For embedded and IoT devices that require high performance and rich OS.
