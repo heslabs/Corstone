@@ -43,8 +43,9 @@ https://www.arm.com/products/silicon-ip-subsystems
 
 Reference: https://developer.arm.com/Processors/Corstone-1000
 
-* Corstone-1000 offers a pre-verified, configurable subsystem and system IP to enable faster and lower risk development of secure Linux-capable SoCs for a diverse range of applications, from low-power MPUs and wearables to advanced high-performance IoT endpoints and gateways.
-* An example implementation of Corstone-1000 with a cryptocell extension has achieved PSA Certified Level 2 Ready for accelerated IoT security assurance. A reference software stack is included to accelerate software development. Corstone-1000 achieves Arm SystemReady IR requirements to enable interoperability with off-the-shelf operating systems and hypervisors.
+* Corstone-1000 offers a pre-verified, configurable subsystem and system IP to enable faster and lower risk development of secure **Linux-capable SoCs** for a diverse range of applications, from low-power MPUs and wearables to advanced high-performance IoT endpoints and gateways.
+* An example implementation of Corstone-1000 with a cryptocell extension has achieved PSA Certified Level 2 Ready for accelerated IoT security assurance.
+* A reference software stack is included to accelerate software development. Corstone-1000 achieves Arm SystemReady IR requirements to enable interoperability with off-the-shelf operating systems and hypervisors.
 
 ---
 ### Resource
