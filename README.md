@@ -6,6 +6,8 @@ https://www.arm.com/products/silicon-ip-subsystems
 <img src="https://github.com/user-attachments/assets/3659cf42-498b-4485-93ec-cce0dc48ddbc" width=900>
 <br/><br/>
 
+* The Arm Corstone family is designed to help reduce design complexity and speed time –to market. 
+* Corstone balances trade-offs between performance and energy efficiency by providing a large amount of software, IP blocks, and a configurable, modifiable, heterogeneous subsystem.
 * SoC designers use Arm Corstone as a framework to build an SoC using the modifiable, configurable, heterogenous subsystem.
 * Software developers use Corstone software components and tools to get started with the software development before the hardware is ready.
 
@@ -41,8 +43,8 @@ https://www.arm.com/products/silicon-ip-subsystems
 
 Reference: https://developer.arm.com/Processors/Corstone-1000
 
-* The Arm Corstone family is designed to help reduce design complexity and speed time –to market. 
-* Corstone balances trade-offs between performance and energy efficiency by providing a large amount of software, IP blocks, and a configurable, modifiable, heterogeneous subsystem.
+* Corstone-1000 offers a pre-verified, configurable subsystem and system IP to enable faster and lower risk development of secure Linux-capable SoCs for a diverse range of applications, from low-power MPUs and wearables to advanced high-performance IoT endpoints and gateways.
+* An example implementation of Corstone-1000 with a cryptocell extension has achieved PSA Certified Level 2 Ready for accelerated IoT security assurance. A reference software stack is included to accelerate software development. Corstone-1000 achieves Arm SystemReady IR requirements to enable interoperability with off-the-shelf operating systems and hypervisors.
 
 ---
 ### Resource
